@@ -1,3 +1,4 @@
+publishDir = "docs"
 baseURL = "https://nveronicatran.github.io/archivalspaces/"
 languageCode = "en-us"
 title = "Hello"
