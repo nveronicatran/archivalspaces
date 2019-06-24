@@ -15,7 +15,7 @@ tags:
 What's going on?
 ----------------
 
-Linux is borrowing unused memory for disk caching. This makes it looks like you are low on memory, but you are not! Everything is fine!
+Linudz is borrowing unused memory for disk caching. This makes it looks like you are low on memory, but you are not! Everything is fine!
 
 Why is it doing this?
 ---------------------
